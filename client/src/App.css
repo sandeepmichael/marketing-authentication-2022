@@ -1,0 +1,20 @@
+/* home */
+#home {
+  background-color: #282c34;
+  color: aliceblue;
+  min-height: 500px;
+}
+
+
+.card:hover {
+   cursor: pointer;
+
+}
+
+.form {
+  background-color: #282c34;
+  color: aliceblue;
+}
+.form-1 {
+  background-color: antiquewhite;
+}
